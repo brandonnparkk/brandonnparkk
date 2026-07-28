@@ -17,7 +17,3 @@ Software engineer moving into DevOps and cloud infrastructure. Currently going d
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-**Stats**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=brandonnparkk&show_icons=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=brandonnparkk)
