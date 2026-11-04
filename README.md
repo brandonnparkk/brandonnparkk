@@ -1,8 +1,8 @@
 ### Hi, I'm Brandon
 
-Software engineer with a focus on DevOps and cloud infrastructure. Currently going deep on Kubernetes, Terraform, and AWS. AWS Solutions Architect Associate certified.
-
+Software engineer with a focus on systems and infrastructure. Currently going deep on System Design and Algorithms.
 - Building things: automated deployments on AWS with Terraform, a TrueNAS homelab, k3s on a Raspberry Pi 5
+-  AWS Solutions Architect Associate certified.
 - Learning in public on [LinkedIn](https://www.linkedin.com/in/brandonpark206/)
 - Reach me: brandonn.parkk@gmail.com
 
